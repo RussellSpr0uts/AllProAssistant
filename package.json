@@ -5,10 +5,11 @@
     "expo": "^22.0.1",
     "react": "16.0.0-beta.5",
     "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.1.tar.gz",
-    "react-navigation": "^1.0.0-beta.17"
+    "react-navigation": "^1.0.0-beta.17",
+    "react-redux": "^5.0.6"
   },
-  "name": "allpro-assistanct",
+  "name": "allpro-assistant",
   "version": "0.0.0",
-  "description": "Hello Expo!",
-  "author": null
+  "description": "An assistant application for the AllPro workout regiment",
+  "author": "Russell Sowell"
 }

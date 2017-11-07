@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "allpro-assistanct",
-    "description": "An empty new project",
-    "slug": "allpro-assistanct",
+    "name": "allpro-assistant",
+    "description": "An application to assist AllPro workout regiment",
+    "slug": "allpro-assistant",
     "privacy": "public",
     "sdkVersion": "22.0.0",
     "version": "1.0.0",
